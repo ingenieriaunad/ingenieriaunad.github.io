@@ -1,0 +1,37 @@
+@charset "utf-8";
+.unadazul {
+	background-color: #005883;
+}
+.nav.navbar-nav li a {
+	color: #FFFFFF;
+}
+.nav.navbar-nav li a:hover {
+	color: #F0B429;
+}
+.unadamarillo {
+	color: #FFFFFF;
+	background-color: #F0B429;
+}
+.bordeamarillo {
+	border-radius: 12px;
+	border: 3px solid #F0B429;
+	margin-top: 10px;
+	padding-bottom: 5px;
+}
+
+section {
+	padding-left: 12px;
+}
+
+
+
+
+.txtblanco {
+	color: #FFFFFF;
+}
+img {
+	border-radius: 12px;
+}
+.fondoamarillo {
+	background-color: #FFF4C8;
+}
